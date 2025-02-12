@@ -1,1 +1,17 @@
 queens-game
+
+Based on the LinkedIn Queens game
+
+Rules may be found [here](https://www.linkedin.com/help/linkedin/answer/a6269510)
+
+Goals of this project:
+
+1. Create a script that takes in a matrix representing the empty Queens grid and outputs a solved grid.
+
+2. Create a script that takes an integer as input n and outputs a solvable n by n queens grid.
+
+3. Create a deployable web UI that contains an interactive queens grid
+
+4. Integrate the game generation script with the UI to allow new games to generate given a grid dimension n.
+
+5. Add functionality to the web UI to allow upload or capture of an external Queens grid (empty or partly solved) and outputs the solution
